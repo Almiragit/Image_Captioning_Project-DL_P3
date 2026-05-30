@@ -1,0 +1,44 @@
+# Project-specific
+/DL-MPW-ImgCaptioning.pdf
+/ShowAndTell_Paper.pdf
+/ShowAttendAndTell_Paper.pdf
+data/images/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts
+*.pt
+*.pth
+*.ckpt
+runs/
+lightning_logs/
+tb_logs/
+wandb/
+mlruns/
+outputs/
+checkpoints/
+
+# Dataset archives
+*.zip
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
