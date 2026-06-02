@@ -3,6 +3,7 @@
 /ShowAndTell_Paper.pdf
 /ShowAttendAndTell_Paper.pdf
 data/images/
+captioning_starter/data/images/
 
 # Python
 __pycache__/
