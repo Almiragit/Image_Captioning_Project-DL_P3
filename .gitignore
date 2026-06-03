@@ -4,6 +4,7 @@
 /ShowAttendAndTell_Paper.pdf
 data/images/
 captioning_starter/data/images/
+captioning_starter/data/predictions/
 
 # Python
 __pycache__/
